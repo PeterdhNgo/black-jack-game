@@ -13,7 +13,7 @@ public class Main
         // shuffle the deck (I guess)
         mainDeck.shuffleDeck();
 
-        ArrayList<Player > players = new ArrayList < Player> ();
+        ArrayList<Player > players = new ArrayList<>();
         players.add(new Player("Player 1"));
         players.add(new Player("Player 2"));
 
