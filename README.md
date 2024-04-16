@@ -16,6 +16,10 @@ This project contains a classic console-based BlackJack game.This game allows tw
 4. Use your preferred coding mechanic and open the file that has just been pulled by git bash.
 
 ### Running the Applications
++ Visit each class once
+
+![img_1.png](img_1.png)
+
 + Run the Java file directly from the main class
 
 ![img.png](img.png)
