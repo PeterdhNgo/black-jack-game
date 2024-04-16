@@ -12,7 +12,7 @@ This project contains a classic console-based BlackJack game.This game allows tw
 1. Move to the folder which you would like the code to be stored.
 2. Open Git Bash
 3. Clone the repository:
-- Use **git clone <repository-url>** to clone this repository to your local machine.
+- Use **git clone (repository-url)** to clone this repository to your local machine.
 4. Use your preferred coding mechanic and open the file that has just been pulled by git bash.
 
 ### Running the Applications
