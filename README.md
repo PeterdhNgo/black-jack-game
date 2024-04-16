@@ -1,12 +1,18 @@
-﻿# Simple 2 players turn based BlackJack game
+﻿# Simple 2 players turn based BlackJack game using Java
 ### Overview
 This project contains a classic console-based BlackJack game.This game allows two players to play BlackJack in a terminal.
 
 ### Prerequisites
++ Git needs to be installed on your computer.
+  - You can download Git from https://git-scm.com/downloads and install it.
 + JDK 11 or higher.
 
 ### Setup and Installation
-+ Clone the repository: Use **git clone <repository-url>** to clone this repository to your local machine.
+#### Use terminal or command prompt and execute the following steps:
+1. Move to the folder which you would like the code to be stored.
+- cd path/to/your/directory
+2. Clone the repository:
+- Use **git clone <repository-url>** to clone this repository to your local machine.
 
 ### Running the Applications
  
